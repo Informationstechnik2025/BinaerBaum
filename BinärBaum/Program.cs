@@ -10,6 +10,7 @@ namespace BinärBaum
     {
         static void Main(string[] args)
         {
+            // so viel shit hier
         }
     }
 }
