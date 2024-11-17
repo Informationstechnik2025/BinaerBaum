@@ -10,7 +10,10 @@ namespace BinärBaum
     {
         static void Main(string[] args)
         {
-            // so viel shit hier
+            Binaerbaum<int> baum = new Binaerbaum<int>();
+            
+            System.Console.WriteLine("Ist der Baum leer? " + baum.IstLeer());
+            Console.ReadLine();
         }
     }
 }
